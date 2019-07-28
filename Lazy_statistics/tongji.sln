@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.421
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "tongji", "tongji\tongji.csproj", "{50C2337D-C2F8-44DE-8BC4-7FCD490275CD}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{50C2337D-C2F8-44DE-8BC4-7FCD490275CD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{50C2337D-C2F8-44DE-8BC4-7FCD490275CD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{50C2337D-C2F8-44DE-8BC4-7FCD490275CD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{50C2337D-C2F8-44DE-8BC4-7FCD490275CD}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {298D53A1-65ED-4FD7-9990-EC5C8C1B6F19}
+	EndGlobalSection
+EndGlobal
